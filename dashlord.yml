@@ -608,7 +608,7 @@ urls:
       - anct
       - dotations-locales
       - production
-  - url: https://front-datasubvention-preprod.osc-secnum-fr1.scalingo.io/
+  - url: https://front-datasubvention-preprod.osc-secnum-fr1.scalingo.io
     title: Frontend data-subvention (préprod)
     category: startup
     repositories:
