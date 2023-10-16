@@ -640,7 +640,7 @@ urls:
       - staging
       - api
     betaId: data-subvention
-  - url: http://api.datasubvention.beta.gouv.fr/
+  - url: http://api.datasubvention.beta.gouv.fr
     title: Backend data-subvention
     category: startup
     repositories:
